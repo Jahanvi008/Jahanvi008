@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanvi008&label=Profile%20views&color=0e75b6&style=flat" alt="jahanvi008" /> </p>
 
-- 🔭 I’m currently working on **Travel Journal - mobile application to keep track of my travelling**
+- 🔭 I’m currently working on **Blockchain and AI-based Supply chain traceability platform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jahanvi008](https://github.com/Jahanvi008)
 
