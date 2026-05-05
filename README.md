@@ -12,7 +12,3 @@
 <p align="left">
 <a href="https://linkedin.com/in/jahanvi-mathukia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahanvi mathukia" height="30" width="40" /></a>
 </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahanvi008&show_icons=true&locale=en&layout=compact" alt="jahanvi008" /></p>
